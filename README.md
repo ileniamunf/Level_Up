@@ -22,4 +22,4 @@ poco lavoro in più.
 ### Caratteristiche:
 * Linguaggio di sviluppo: Swift 6
 * Framework di sviluppo UI: SwiftUI
-* Persistenza: JSON files locally stored
+* Persistenza: file JSON locali
